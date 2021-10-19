@@ -5,4 +5,4 @@
 Tugas Bahasa Pemrograman
 Belajar Version Control System
 Ini Tampilannya
-![img]screenshot/ss1.png
+![Gambar1](screenshot/ss1.png)
