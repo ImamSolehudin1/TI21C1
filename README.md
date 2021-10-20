@@ -1,8 +1,9 @@
 # TI21C1
-## Belajar Git 
+## FAKULTAS TEKNIK INFORMATIKA
 
-### Membuat Direktory
+### MEMBUAT REPOSITIRY GITHUB
 Tugas Bahasa Pemrograman
 Belajar Version Control System
+KELAS TI21C1
 Ini Tampilannya
 ![Gambar1](screenshot/ss1.png)
